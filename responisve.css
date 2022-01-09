@@ -1,0 +1,2459 @@
+@media screen and (max-width: 767px) {
+    .header-top-left ul {
+        padding: 0;
+        text-align: center;
+    }
+    header .header-top-left ul li {
+        display: inline-block;
+        list-style: none;
+        padding-top: 5px;
+    }
+    header .header-top-left ul li a {
+        padding: 0 5px;
+        font-size: 11px;
+        color: #fff;
+        text-decoration: none;
+        font-family: 'Roboto', sans-serif;
+    }
+    .header-top-right.text-center ul {
+        margin-bottom: 6px;
+        padding-right: 2em;
+    }
+    header .header-top-right ul li {
+        display: inline-block;
+        padding-top: 4px;
+        list-style: none;
+    }header .header-top-right ul li a {
+        color: #fff;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .header-top-left ul {
+        padding: 0;
+        text-align: center;
+        margin: 0;
+    }
+    header .header-middle .navbar .navbar-brand img {
+        height: 50px;
+        padding: 10px 0;
+        margin: 0;
+    }
+
+     ul.navbar-nav.ml-auto {
+        display: inline-block;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .asar {
+        padding: 4px 5px;
+        display: inline-block;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 10px;
+        padding: 7px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        display: inline-block;
+    }header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 10px;
+        padding: 4px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        display: inline-block;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .asar {
+        padding: 5px 9px;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 10px;
+        padding: 4px 7px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }
+ 
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item {
+        border: 2px solid #009144;
+        border-radius: 10px;
+        margin: 0 2px;
+        display: inline-block;
+    }
+
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 10px;
+        padding: 4px 4px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 10px;
+        padding: 4px 8px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }
+
+    header .header-bottom nav .navbar-collapse ul .nav-item .nav-link {
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        padding: 0 12px;
+    }
+    .carousel-inner .carousel-item .img.d-block.w-100.slider-img {
+        height: auto;
+    }
+
+    .slider-section #carouselExampleIndicators a span i {
+        font-size: 10px;
+    }
+    .carousel-caption.text-center img {
+        height: 30px;
+        margin: 0;
+    }
+    .carousel-caption.text-center h2 {
+        font-size: 15px;
+        margin: 0;
+    }
+    .carousel-caption.text-center h1 {
+        font-size: 19px;
+        margin: 0;
+    }
+    .carousel-caption.text-center p {
+        font-size: 10px;
+    }
+    .carousel-caption {
+        height: 150px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .slider-section img.play-track-img {
+        position: relative;
+        top: -35px;
+        left: 0em;
+        height: auto;
+    }
+    .title-tag h1 {
+        color: #009245;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+
+    .underline-img {
+        margin: 0 auto;
+        height: auto;
+        width: 100%;
+    }
+    .title-tag p {
+        font-size: 11px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+    }
+    .surah-recitation h6 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .surah-recitation .underline {
+        width: 28px;
+        border: 1px solid green;
+        margin: -4px 0px 12px 140px;
+    }
+    .surah-recitation p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 11px;
+        color: #959595;
+    }
+    .surah-recitation i {
+        position: relative;
+        left: 135px;
+        top: 3px;
+        background: #6c6c6c;
+        color: #fff;
+        padding: 12px;
+        border-radius: 50%;
+        font-size: 10px;
+    }
+    .surah-section .surah-recitation {
+        border: 1px solid #7f7f7f;
+        border-radius: 16px;
+        margin-bottom: 12px;
+        padding: 12px;
+    }
+    .about-us img {
+        width: 100%;
+        height: auto;
+        border: 5px solid #fff;
+        margin-top: 1em;
+    }
+    .about-us .about-us-text h2 {
+        margin-bottom: 5px;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .about-us .about-us-text p {
+        font-size: 11px;
+    }
+    
+    ul.name-list li {
+        display: inline-block;
+        font-size: 8px;
+        padding: 0 6px 0 21px;
+        position: relative;
+        left: 90px;
+        top: -18px;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 5px 12px;
+        border-radius: 26px;
+        font-size: 13px;
+        margin-top: 1em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+    }
+    
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 5px 12px;
+        border-radius: 26px;
+        font-size: 13px;
+        margin-top: 0em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        text-align: left;
+    }
+    ul.name-list li {
+        display: inline-block;
+        font-size: 8px;
+        padding: 0 6px 0 14px;
+        position: relative;
+        left: -33px;
+        top: -18px;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 5px 12px;
+        border-radius: 26px;
+        font-size: 13px;
+        margin-top: 0em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        text-align: left;
+        text-align: left;
+        position: relative;
+        left: 9px;
+    }
+    .services-info {
+        border: 1px solid #000;
+        margin-bottom: 2em;
+        border-radius: 34px;
+        height: 295px;
+        box-shadow: 1px 5px 5px #059349;
+    }
+    .services-info img {
+        height: 222px;
+        /* border-top-left-radius: 34px; */
+        /* border-top-right-radius: 34px; */
+        border-radius: 34px 34px 0 0;
+        width: 100%;
+    }
+    .services-info h5 {
+        padding: 0 2.4em;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        margin-top: 16px;
+        margin-bottom: 0;
+    }
+    .services-info .time {
+        padding: 0 1.3em;
+    }
+    .services-info i {
+        padding: 0 1em;
+        /* font-family: 'Roboto', sans-serif; */
+        font-size: 11px;
+        color: #838383;
+    }
+    .services-info .service-time {
+        font-size: 11px;
+        font-family: 'Roboto', sans-serif;
+        padding: 0;
+        color: #838383;
+    }
+    .islamic-icons img.img-fluid {
+        max-width: 100%;
+        height: 66px;
+    }
+    .islamic-pillar .islamic-icons {
+        margin-top: 1rem;
+        padding: 0;
+    }
+    .islamic-pillar {
+        height: 290px;
+        background-image: url(images/pillars-bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .islamic-pillar .title-tag h1 {
+        color: #ffffff;
+        font-size: 19px;
+        margin-bottom: 0px;
+    }
+    .islamic-pillar .title-tag p {
+        font-size: 11px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+    }
+    .underline-img {
+        margin: 0 auto;
+        height: auto;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .islamic-pillar .islamic-icons {
+        margin-top: 0px;
+        padding: 0;
+    }
+    .islamic-pillar {
+        height: 235px;
+        background-image: url(images/pillars-bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .team-img img {
+        height: auto;
+        width: 100%;
+    }
+    .teacher-section .team-main {
+        border: 2px solid #464646;
+        margin-bottom: 14px;
+    }
+    .teacher-section .team-hover {
+        background-color: transparent;
+        padding: 0;
+        opacity: 0;
+        position: absolute;
+        left: 74px;
+        bottom: 0;
+        top: 200px;
+    }
+    header .header-bottom input.form-control.mr-sm-2 {
+        border-radius: 0;
+        font-weight: 700;
+        font-family: 'Lato', sans-serif;
+        display: inline-block;
+        width: 80%;
+    }
+    header .header-bottom input.form-control.mr-sm-2 {
+        border-radius: 0;
+        font-weight: 700;
+        font-family: 'Lato', sans-serif;
+        display: inline-block;
+        width: 80%;
+        font-size: 11px;
+    }
+    header .header-bottom .input-group-append button {
+        background: none;
+        position: relative;
+        left: -21px;
+        border: none;
+        font-size: 12px;
+        top: 1px;
+    }
+    header .header-bottom nav .navbar-collapse ul .nav-item .nav-link {
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        padding: 0 12px;
+        margin-top: 5px;
+    }
+    .surah-recitation .underline {
+        width: 21px;
+        border: 1px solid green;
+        margin: -4px 0px 12px 148px;
+    }
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding-left: 0px;
+        margin-top: -5px;
+    }
+    .about-us .about-us-text .name-list p.name-list-item {
+        font-size: 9px;
+        position: relative;
+        left: 0;
+    }
+    .about-us .about-us-text span {
+        font-size: 9px;
+        position: relative;
+        left: -38%;
+        top: 20px;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 5px 12px;
+        border-radius: 26px;
+        font-size: 11px;
+        margin-top: 0em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        text-align: left;
+        text-align: left;
+        position: relative;
+        left: 9px;
+    }
+    .about-us {
+        width: 100%;
+        height: 87vh;
+        background-image: url(images/msoque-img.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        overflow: hidden;
+        position: relative;
+        padding: 2em 0;
+    }
+    .about-us .about-us-text p {
+        font-size: 10px;
+    }
+    .teacher-section h6 {
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 5px;
+    }
+    .teacher-section p {
+        font-size: 11px;
+    }
+    .teacher-section .underline {
+        border: 1px solid #029046;
+        width: 24%;
+        margin: 0 auto;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .teacher-section .team-hover {
+        background-color: transparent;
+        padding: 0;
+        opacity: 0;
+        position: absolute;
+        left: 86px;
+        bottom: 0;
+        top: 200px;
+    }
+    .teacher-section .team-hover ul li a i {
+        font-size: 13px;
+        color: #000;
+        background-color: #fff;
+        padding: 8px 11px;
+        border-radius: 50%;
+    }
+    .teacher-section .team-hover ul li a i.fab.fa-google-plus-g {
+        padding: 8px;
+    }
+    .weekly-program-section .weekly-program-text h2 {
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .weekly-program-section .weekly-program-text h4 {
+        font-size: 13px;
+        margin-bottom: 6px;
+        text-align: center;
+    }
+    .weekly-program-section .weekly-program-text p {
+        font-size: 11px;
+        font-weight: lighter;
+        text-align: center;
+        margin-top: 8px;
+    }
+    .weekly-program-section {
+        height: 28vh;
+        background: url(images/weekly-bg.jpg) no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 1em 0;
+    }
+    .weekly-program-section .weekly-program-text a {
+        display: inline-block;
+        color: #008e48;
+        background-color: #fff;
+        padding: 2px 8px;
+        font-size: 11px;
+        border-radius: 20px;
+        font-weight: 600;
+        text-decoration: none;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 3px;
+    }
+    .gallery-section {
+        padding: 2em 0;
+    }
+    .box-text.text-center h4 {
+        font-size: 18px;
+    }
+    .donate-section .box-text.text-center p {
+        padding: 0 6px;
+        font-size: 10px;
+        margin-top: 3px;
+    }
+    section.donate-section img {
+        height: auto;
+        width: 100%;
+    }
+    .weekly-program-section .weekly-program-text {
+        margin-top: 1em;
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+    }
+    .donate-section .box-text.text-center {
+        position: absolute;
+        top: 5px;
+        color: #fff;
+    }
+    .circleBar .circle-1 {
+        height: 80px;
+        width: 80px;
+        margin-top: 0em;
+        border-radius: 50%;
+        text-align: center;
+        border: 4px solid #009441;
+        left: 61px;
+        position: relative;
+    }
+    .circleBar {
+        height: 100px;
+        width: 100px;
+    }
+    .target ul li {
+        background: #00000096;
+        width: 90px;
+        padding: 3px 5px;
+        margin: 3px 0;
+        border: 1px solid #ffffff5c;
+        font-size: 12px;
+    }
+    .target ul {
+        list-style: none;
+        padding: 0;
+        margin-top: 0em;
+    }
+    .target {
+        padding: 0;
+        margin: 0;
+    }
+    .circleBar .circle-1 {
+        height: 100px;
+        width: 100px;
+        margin-top: 0em;
+        border-radius: 50%;
+        text-align: center;
+        border: 4px solid #009441;
+        left: 52px;
+        position: relative;
+    }
+    .circleBar .circle-1 span {
+        position: relative;
+        top: 37px;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .donate-section .payment-section {
+        margin-top: 8px;
+    }
+    ul.donate-list li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 9px;
+        padding: 5px 10px;
+    }
+    ul.donate-list li.amount-form input.form-control.text-center {
+        width: 100%;
+        padding: 4px 3px;
+        height: 32px;
+    }
+    ul.donate-list li {
+        list-style: none;
+        display: inline-block;
+        background: #009146;
+        border-radius: 50%;
+        padding: 8px 1px;
+        margin: 0 0px;
+    }
+    ul.donate-list li.item-1 {
+        list-style: none;
+        display: inline-block;
+        background: #009146;
+        border-radius: 50%;
+        padding: 8px 4px;
+        margin: 0;
+    }
+    ul.donate-list li.amount-form input.form-control.text-center {
+        font-size: 11px;
+        width: 100%;
+        padding: 4px 3px;
+        height: 32px;
+    }
+    .donate-section h5 {
+        padding-left: 0;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+    .donate-section .underline {
+        border: 1px solid #787878;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+    .form-group.bill-form .form-control {
+        font-size: 12px;
+        height: 2rem;
+        padding: 3px 8px;
+        margin: 6px 0;
+        border: 1px solid #959595;
+        border-radius: 0;
+    }
+    .method-type {
+        font-size: 12px;
+        padding: 0 0;
+        font-weight: bold;
+        margin: 5px 0;
+    }
+    .donate-section a.donate-button {
+        display: inline-block;
+        margin-left: 0;
+        margin-top: 1em;
+        color: #fff;
+        text-decoration: none;
+        background-color: #009146;
+        padding: 3px 14px;
+        font-size: 12px;
+        border-radius: 40px;
+    }
+    .blog-section {
+        padding: 1em 0;
+    }
+    .blog-section .card .card-body .card-text h5 {
+        color: #777;
+        font-size: 15px;
+        margin: 0;
+    }
+    .blog-section .card .card-body .card-text span {
+        font-size: 10px;
+        padding: 0;
+        margin: 0;
+    }
+    .blog-section .card .card-body .card-text p {
+        color: #777;
+        font-size: 11px;
+        margin-top: 5px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    }
+    .blog-section .card .card-body .card-text a {
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        background-color: #009146;
+        padding: 3px 12px;
+        border-radius: 42px;
+        font-size: 12px;
+        margin-top: 0px;
+        font-weight: 600;
+    }
+    .blog-section .card {
+        border: none;
+        margin-bottom: 12px;
+    }
+    .testinomial-section .owl-carousel .owl-item img {
+        width: 16%;
+        height: auto;
+        display: inline-block;
+        border-radius: 50%;
+        padding: 0;
+        margin: 10px;
+        box-shadow: 0px 3px 10px rgb(0 0 0 / 50%);
+    }
+    .testinomial-section .card-img h4 {
+        display: inline-block;
+        font-size: 15px;
+        padding: 0;
+        font-weight: 600;
+        margin: 0;
+    }
+    .testinomial-section .card {
+        border: 1px solid #000;
+        padding: 0 5px;
+        border-radius: 0;
+    }
+    .testinomial-section .card-img p {
+        font-size: 11px;
+        display: inline-block;
+        padding-left: 6.5em;
+        margin-top: -2em;
+        color: #777;
+        padding-right: 1em;
+    }
+    .testinomial-section {
+        padding: 1em 0;
+    }
+    .product-section {
+        padding: 0em 0;
+    }
+    .product-section .card .card-text.text-center h5 {
+        color: #777;
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .product-section .card-text.text-center p {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    .product-section .card .card-text.text-center p.card-price {
+        color: #009a4c;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .product-section .card .card-text.text-center a {
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        background: #009a4c;
+        padding: 3px 12px;
+        border-radius: 45px;
+        font-size: 12px;
+        margin-bottom: 1rem;
+    }
+    .product-section .card {
+        color: #777;
+        box-shadow: -4px 2px 9px rgb(0 0 0 / 50%);
+        width: 100%;
+        text-align: center;
+        margin-top: 1.3rem;
+    }
+    .product-section {
+        padding-bottom: 2em;
+    }
+    footer .footer-section h6 {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    footer .footer-section .footer-img img {
+        height: auto;
+        margin: 1em 0;
+    }
+    footer .footer-section .footer-text p {
+        color: #fff;
+        font-size: 12px;
+        margin: 6px 0;
+    }
+    footer .footer-section span.contact-list-info {
+        position: relative;
+        left: 10px;
+        font-size: 11px;
+        top: -2px;
+    }
+    footer .footer-section .contact-list ul li span i {
+        padding-left: 0;
+        font-size: 12px;
+    }
+    footer .footer-section .contact-list ul {
+        list-style: none;
+        padding: 0 0;
+        margin: 12px 0;
+        display: inline-block;
+        border-bottom: 1px solid #fff;
+        width: 100%;
+    }
+    footer .footer-section .event-section {
+        padding-left: 0;
+    }
+    footer .footer-section .event-list.text-left .event-1 {
+        margin: 11px 0;
+        border-bottom: 1px solid #fff;
+        padding-bottom: 1em;
+    }
+    footer .footer-section .event-section h6.event-heading {
+        margin-bottom: 1em;
+        display: block;
+    }
+    footer .footer-section .event-list.text-left p {
+        color: #fff;
+        background-color: #064e28;
+        display: inline-block;
+        padding: 1px 3px;
+        margin: 0;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    footer .footer-section .event-list.text-left p .month-name {
+        display: block;
+        text-align: center;
+        padding: 0 7px;
+        margin: 0;
+        font-size: 12px;
+    }
+    footer .footer-section .event-list.text-left h6 {
+        display: inline-block;
+        font-size: 10px;
+        padding-left: 5px;
+        font-weight: 300;
+    }
+    footer .footer-section .event-list.text-left .event-2 {
+        margin: 1em 0;
+        border-bottom: 1px solid #fff;
+        padding-bottom: 1em;
+    }
+    footer .footer-section .event-list.text-left .event-3 {
+        margin: 1em 0;
+    }
+    footer .footer-section h6 {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+        margin: 10px 0;
+    }
+    footer  .form-group {
+        margin-bottom: 10px;
+    }
+    .footer-form input.form-control {
+        font-size: 12px;
+        padding: 7px 3px;
+    }
+    textarea.form-control {
+        height: 7em;
+        font-size: 12px;
+    }
+    footer button {
+        background: #064e28;
+        color: #fff;
+        border: none;
+        border-radius: 40px;
+        padding: 3px 12px;
+        font-size: 13px;
+        font-weight: 400;
+        margin: 5px 0;
+    }
+    .footer-icon-list ul li {
+        color: #fff;
+        display: inline-block;
+        font-size: 15px;
+        padding: 0 11px;
+        margin-top: 8px;
+    }
+    .footer-bottom.text-center p {
+        margin: 0;
+        padding: 8px 0;
+        background: #009146;
+        color: #fff;
+        font-size: 11px;
+    }
+    .about-us .about-us-text .name-list p {
+        font-size: 9px;
+    }
+    .gallery-section .overlay {
+        position: absolute;
+        height: 238px;
+        width: 94%;
+    }
+    .text-center.gallery-button a {
+        background-color: #019149;
+        color: #fff;
+        padding: 8px 20px;
+        margin-top: 10px;
+        display: inline-block;
+        border-radius: 40px;
+        font-size: 15px;
+        text-decoration: none;
+    }
+    .donate-section h5 {
+        padding-left: 0;
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+    .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+        background: 0 0;
+        color: inherit;
+        border: none;
+        padding: 0!important;
+        font: inherit;
+        display: none;
+    }
+    footer .footer-section .contact-list ul {
+        list-style: none;
+        padding: 0 0;
+        margin: 12px 0;
+        display: inline-block;
+        border-bottom: none;
+        width: 100%;
+    }
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 0 0 0 3px;
+        margin-top: -5px;
+    }
+    .weekly-program-section .weekly-program-text h2 {
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 5px;
+        text-align: left;
+    }
+    .weekly-program-section .weekly-program-text h4 {
+        font-size: 13px;
+        margin-bottom: 6px;
+        text-align: left;
+    }
+    .weekly-program-section .weekly-program-text p {
+        font-size: 11px;
+        font-weight: lighter;
+        text-align: left;
+        margin-top: 8px;
+    }
+    .weekly-program-section .weekly-program-text a {
+        display: inline-block;
+        color: #008e48;
+        background-color: #fff;
+        padding: 2px 8px;
+        font-size: 11px;
+        border-radius: 20px;
+        font-weight: 600;
+        text-decoration: none;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 0px;
+    }
+    .header-bottom nav button span {
+        color: #fff;
+    }
+    .carousel-caption {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .about-us img {
+        height: auto;
+        border: 0;
+        margin-top: 1em;
+    }
+    
+ul.donate-list {
+    margin-bottom: 5px;
+    padding: 0;
+}
+header .header-bottom .input-group-append button {
+    background: none;
+    position: relative;
+    left: 0;
+    border: none;
+    font-size: 11px;
+    top: 1px;
+}.header-top-right.text-center ul {
+    margin-bottom: 5px;
+    padding-right: 5em;
+    padding-top: 0px;
+}
+.header-top-right.text-center ul {
+    margin-bottom: 5px;
+    padding-right: 0;
+    padding-top: 0px;
+    text-align: center;
+}
+.number-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 0em;
+}.about-us .about-us-text span {
+    font-size: 9px;
+    position: relative;
+    left: -38%;
+    top: 0px;
+}
+.about-us .number-list p {
+    font-size: 35px;
+    border: 2px solid dotted;
+    border: 2px dotted #fff;
+    padding: 5px 16px;
+}
+.about-us .number-list p.about-us-number {
+    padding: 5px 18px;
+}
+.about-us .about-us-text .name-list p {
+    font-size: 8px;
+}
+.about-us .about-us-text .name-list p.name-list-item {
+    font-size: 8px;
+    position: relative;
+    left: 0;
+}
+.about-us .about-us-button {
+    background: none;
+    background: #fff;
+    color: #000;
+    padding: 2px 10px;
+    border-radius: 26px;
+    font-size: 11px;
+    margin-top: 0em;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 500;
+    text-align: left;
+    text-align: left;
+    position: relative;
+    left: 9px;
+}
+.about-us .about-us-text span {
+    font-size: 9px;
+    position: relative;
+    left: -38.5%;
+    top: 5px;
+}
+.about-us {
+    width: 100%;
+    height: auto;
+    background-image: url(images/msoque-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    overflow: hidden;
+    position: relative;
+    padding: 2em 0;
+}
+.about-us img {
+    height: auto;
+    border: 0;
+    margin-top: 0em;
+}
+
+
+.islamic-icons img.img-fluid {
+    max-width: 100%;
+    height: 62px;
+}
+header .header-top-left ul li {
+    display: inline-block;
+    list-style: none;
+    padding-top: 0px;
+}
+header .header-top-left ul li a {
+    padding: 0 2px;
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+header .header-top-left ul li a i {
+    padding: 0 5px;
+}
+header .header-top-right ul li {
+    display: inline-block;
+    padding-top: 0px;
+    list-style: none;
+}
+header .header-top-right ul li a {
+    color: #fff;
+    padding: 0 6px;
+    font-size: 12px;
+}
+header .header-bottom nav .navbar-collapse ul .nav-item .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    padding: 0 0;
+    margin-top: 5px;
+}
+header .header-bottom input.form-control.mr-sm-2 {
+    border-radius: 0;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    display: inline-block;
+    width: 93%;
+    font-size: 11px;
+}
+.surah {
+    box-sizing: border-box;
+}
+.surah-recitation .underline {
+    width: 21px;
+    border: 1px solid green;
+    margin: 0 auto;
+}
+.surah-recitation h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.surah-recitation i {
+    position: relative;
+    left: 135px;
+    top: 0px;
+    background: #6c6c6c;
+    color: #fff;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 10px;
+}
+
+.circleBar {
+    height: 0;
+    width: 0;
+}
+.circleBar .circle-1 {
+    height: 100px;
+    width: 100px;
+    margin-top: 0em;
+    border-radius: 50%;
+    text-align: center;
+    border: 4px solid #009441;
+    left: 50px;
+    position: relative;
+}
+.about-us .number-list p {
+    font-size: 15px;
+    border: 2px solid dotted;
+    border: 2px dotted #fff;
+    padding: 5px 16px;
+}
+.name-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0 0px 0 0px;
+    margin-top: -5px;
+}
+.name-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 10px;
+    margin-top: -5px;
+}
+.donate-traget {
+    display: none;
+}
+.donate-section .box-text.text-center {
+    position: absolute;
+    top: 16px;
+    color: #fff;
+}
+section.donate-section img {
+    height: 150px;
+    width: 100%;
+}
+
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+    .header-top-left ul {
+        padding: 0;
+    }
+        header .header-top-right ul li a {
+        color: #fff;
+        padding: 0 10px;
+        font-size: 13px;
+    }
+   
+    header .header-middle .navbar .navbar-brand img {
+        height: 60px;
+        padding: 5px 0;
+        margin: 0;
+    }
+    /* .header-middle .ml-auto, .mx-auto {
+        margin-left: auto !important;
+        display: inline-block;
+        padding: 0 7em;
+    } */
+    
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        color: #000;
+        font-size: 12px;
+        padding: 7px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item .asar {
+        padding: 7px 12px;
+    }
+    .header-middle ul.navbar-nav.ml-auto {
+        margin-left: auto !important;
+        display: inline-block;
+        padding: 0 7em;
+    }
+    header .header-top-right ul li {
+        display: inline-block;
+        padding-top: 6px;
+        list-style: none;
+    }
+    header .header-middle nav .navbar-collapse .navbar-nav .nav-item {
+        border: 2px solid #009144;
+        border-radius: 10px;
+        margin: 0 10px;
+        display: inline-block;
+    }
+    .header-bottom ul.navbar-nav.mx-auto {
+        margin-left: auto !important;
+    }
+    header .header-bottom nav .navbar-collapse ul .nav-item .nav-link {
+        color: #fff;
+        text-decoration: none;
+        font-size: 14px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        padding: 0 6px;
+    }
+    header form.form-inline.my-2.my-lg-0 {
+        width: 36%;
+    }
+    header .header-bottom input.form-control.mr-sm-2 {
+        border-radius: 0;
+        font-weight: 700;
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+    }
+    header .header-bottom .input-group-append button {
+        background: none;
+        position: relative;
+        left: -40px;
+        border: none;
+        font-size: 14px;
+    }
+    .carousel-caption {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .carousel-caption.text-center img {
+        height: 55px;
+    }
+    .carousel-caption.text-center h2 {
+        font-size: 25px;
+    }
+    .carousel-caption.text-center h1 {
+        font-size: 32px;
+    }
+    .carousel-caption.text-center p {
+        font-size: 13px;
+    }
+    .carousel-caption {
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .slider-section #carouselExampleIndicators a span i {
+        font-size: 1rem;
+    }
+    .slider-section img.play-track-img {
+        position: relative;
+        top: -57px;
+        left: 0em;
+    }
+    .title-tag h1 {
+        color: #009245;
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .underline-img {
+        margin: 0 115px;
+        margin-bottom: 10px;
+    }
+    .title-tag p {
+        font-size: 13px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+    }
+    .surah-recitation i {
+        position: relative;
+        left: 90px;
+        top: -5px;
+        background: #6c6c6c;
+        color: #fff;
+        padding: 12px;
+        border-radius: 50%;
+        font-size: 10px;
+    }
+    .surah-section .surah-recitation {
+        border: 1px solid #7f7f7f;
+        border-radius: 16px;
+        margin-bottom: 2em;
+        padding: 0em;
+    }
+    .surah-section .surah-recitation {
+        border: 1px solid #7f7f7f;
+        border-radius: 16px;
+        margin-bottom: 1.5em;
+        padding: 0em;
+    }
+    .surah-recitation h6 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        margin-top: 8px;
+    }
+    .surah-recitation .underline {
+        width: 28px;
+        border: 2px solid green;
+        margin: -3px 0px 8px 95px;
+    }
+    .about-us .about-us-text h2 {
+        margin-bottom: 7px;
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .about-us .about-us-text p {
+        font-size: 13px;
+        margin: 0;
+    }
+    
+   
+    
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 0px 2em 0 0px;
+        margin-top: 4px;
+    }
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 4px;
+        padding: 0 12px 0 0px;
+    }
+    .about-us .about-us-text span {
+        font-size: 11px;
+        position: relative;
+        left: -39%;
+        top: 20px;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 5px 15px;
+        border-radius: 26px;
+        font-size: 14px;
+        margin-top: 1em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        position: relative;
+        left: 0;
+    }
+    .about-us {
+        width: 100%;
+        height: auto;
+        background-image: url(images/msoque-img.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        overflow: hidden;
+        position: relative;
+        padding: 2em 0;
+    }
+    .services-info img {
+        height: 161px;
+        /* border-top-left-radius: 34px; */
+        /* border-top-right-radius: 34px; */
+        border-radius: 34px 34px 0 0;
+        width: 100%;
+        margin: 0;
+    }
+    .services-info h5 {
+        padding: 0px 1.5em;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: 0;
+    }
+    .services-info .time {
+        padding: 0 3px;
+    }
+    .services-info i {
+        padding: 0 10px;
+        /* font-family: 'Roboto', sans-serif; */
+        font-size: 12px;
+        color: #838383;
+    }
+    .services-info {
+        border: 1px solid #000;
+        margin-bottom: 1.5em;
+        border-radius: 34px;
+        height: 220px;
+        box-shadow: 1px 5px 5px #059349;
+    }
+    .services-info .time {
+        padding: 0 12px;
+    }
+    .islamic-icons .img-fluid {
+        /* width: 100%; */
+        height: 139px;
+    }
+    .islamic-pillar {
+        height: auto;
+        background-image: url(images/pillars-bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .team-img img {
+        height: auto;
+        width: 100%;
+    }
+    .teacher-section h6 {
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 2px;
+    }
+    .teacher-section .underline {
+        border: 1px solid #029046;
+        width: 38%;
+        margin: 0 auto;
+        margin-top: 0;
+        margin-bottom: 3px;
+    }
+    .teacher-section p {
+        font-size: 11px;
+    }
+    .teacher-section .team-hover ul li a i.fab.fa-google-plus-g {
+        padding: 7px;
+    }
+    .teacher-section .team-hover ul li a i {
+        font-size: 9px;
+        color: #000;
+        background-color: #fff;
+        padding: 6px 7px;
+        border-radius: 50%;
+    }
+    .teacher-section .team-hover {
+        background-color: transparent;
+        padding: 0;
+        opacity: 0;
+        position: absolute;
+        left: 21px;
+        bottom: 0;
+        top: 92px;
+    }
+    .teacher-section .team-hover ul li a {
+        color: #fff;
+        font-size: 11px;
+        padding: 2px;
+    }
+    .teacher-section .team-hover {
+        background-color: transparent;
+        padding: 0;
+        opacity: 0;
+        position: absolute;
+        left: 33px;
+        bottom: 0;
+        top: 92px;
+    }   
+    .teacher-section .team-hover ul li a i.fab.fa-google-plus-g {
+        padding: 6px 6px;
+    }
+    .weekly-program-section .weekly-program-text h2 {
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 3px;
+        padding-top: 5px;
+    }
+    .weekly-program-section .weekly-program-text h4 {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+    .weekly-program-section .weekly-program-text p {
+        font-size: 12px;
+        font-weight: lighter;
+    }
+    .weekly-program-section .weekly-program-text {
+        margin-top: 16px;
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+    }
+    .weekly-program-section .weekly-program-text h2 {
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 3px;
+        padding-top: 5px;
+    }
+    .weekly-program-section .weekly-program-text a {
+        display: inline-block;
+        color: #008e48;
+        background-color: #fff;
+        padding: 4px 15px;
+        font-size: 14px;
+        border-radius: 20px;
+        font-weight: 600;
+        margin-right: 2px;
+        text-decoration: none;
+        margin-top: -1em;
+        margin-bottom: 1.5em;
+    }
+    .weekly-program-section {
+        height: auto;
+        background: url(images/weekly-bg.jpg) no-repeat;
+        background-position: center;
+        background-size: contain;
+        padding: 0em 0;
+    }
+    .gallery-section img.img-fluid {
+        height: 163px;
+        width: 100%;
+        margin-bottom: 16px;
+        position: relative;
+        overflow: hidden;
+    }
+    .gallery-section .overlay {
+        position: absolute;
+        height: 163px;
+        width: 91.5%;
+    }
+    .text-center.gallery-button a {
+        background-color: #019149;
+        color: #fff;
+        padding: 5px 16px;
+        margin-top: 1em;
+        display: inline-block;
+        border-radius: 40px;
+        font-size: 15px;
+        text-decoration: none;
+    }
+    .donate-section .box-text.text-center {
+        position: absolute;
+        top: 5px;
+        color: #fff;
+    }
+    .box-text.text-center h4 {
+        font-size: 21px;
+    }
+    .donate-section .box-text.text-center p {
+        padding: 0 1em;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .circleBar .circle-1 {
+        height: 130px;
+        width: 130px;
+        margin-top: 0em;
+        border-radius: 50%;
+        text-align: center;
+        border: 6px solid #009441;
+        left: 38px;
+        position: relative;
+    }
+    .target ul li {
+        background: #00000096;
+        width: 110px;
+        padding: 7px 6px;
+        margin: 3px 0;
+        border: 1px solid #ffffff5c;
+        font-size: 14px;
+    }
+    section.donate-section img {
+        height: 300px;
+        width: 100%;
+    }
+    .donate-section h5 {
+        padding-left: 1em;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    ul.donate-list {
+        margin-bottom: 5px;
+        padding: 0;
+    }
+    ul.donate-list li.amount-form input.form-control.text-center {
+        width: 100%;
+        padding: 3px 5px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .form-group.bill-form .form-control {
+        font-size: 12px;
+        height: 2rem;
+        padding: 3px 5px;
+        margin: 6px 4px;
+        border: 1px solid #959595;
+        border-radius: 0;
+    }
+    .method-type {
+        font-size: 13px;
+        padding: 0 13px;
+        font-weight: bold;
+    }
+    .donate-section a.donate-button {
+        display: inline-block;
+        margin-left: 01em;
+        margin-top: 2em;
+        color: #fff;
+        text-decoration: none;
+        background-color: #009146;
+        padding: 5px 16px;
+        font-size: 14px;
+        border-radius: 40px;
+    }
+    .donate-section .underline {
+        border: 1px solid #787878;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 12px;
+    }
+    section.donate-section img {
+        height: 390px;
+        width: 100%;
+    }
+    .donate-section .box-text.text-center {
+        position: absolute;
+        top: 50px;
+        color: #fff;
+    }
+    .circleBar .circle-1 span {
+        position: relative;
+        top: 48px;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .blog-section .card .card-img-top img {
+        height: 144px;
+        margin: 0;
+    }
+    .blog-section .card .card-body .card-text h5 {
+        color: #777;
+        font-size: 12px;
+        margin: 0;
+    }
+    .blog-section .card .card-body .card-text span {
+        font-size: 10px;
+        padding: 0;
+        margin: 0;
+    }
+    .blog-section .card .card-body .card-text p {
+        color: #777;
+        font-size: 10px;
+        margin-top: 5px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    }
+    .blog-section .card .card-body .card-text a {
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        background-color: #009146;
+        padding: 5px 16px;
+        border-radius: 42px;
+        font-size: 13px;
+        margin-top: 0px;
+        font-weight: 600;
+    }
+    .testinomial-section .owl-carousel .owl-item img {
+        width: 16%;
+        height: auto;
+        display: inline-block;
+        border-radius: 50%;
+        padding: 0;
+        margin: 10px;
+        box-shadow: 0px 3px 10px rgb(0 0 0 / 50%);
+    }
+    .testinomial-section .card-img h4 {
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 0em;
+        font-weight: 600;
+    }
+    .testinomial-section .card-img p {
+        font-size: 12px;
+        display: inline-block;
+        padding-left: 6em;
+        margin-top: -2em;
+        color: #777;
+        padding-right: 1em;
+    }
+    .testinomial-section .card {
+        border: 1px solid #000;
+        padding: 0 2px;
+        border-radius: 0;
+    }
+    .product-section .card .card-text.text-center h5 {
+        color: #777;
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .product-section .card-text.text-center p {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .product-section .card .card-text.text-center a {
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        background: #009a4c;
+        padding: 5px 16px;
+        border-radius: 45px;
+        font-size: 14px;
+        margin-bottom: 1rem;
+    }
+    footer .footer-section h6 {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .about-us .about-us-text .name-list p {
+        font-size: 11px;
+    }
+    .about-us .about-us-text .name-list p.name-list-item {
+        font-size: 11px;
+        position: relative;
+        left: 0px;
+    }
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 4px;
+        padding: 0 11px 0 9px;
+    }
+    footer .footer-section h6 {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    footer .footer-section .footer-img img {
+        height: auto;
+        margin: 5px 0;
+    }
+    footer .footer-section .footer-text p {
+        color: #fff;
+        font-size: 12px;
+        margin: 10px 0;
+    }
+    footer .footer-section .contact-list ul li span i {
+        padding-left: 0;
+        font-size: 12px;
+    }
+    footer .footer-section span.contact-list-info {
+        position: relative;
+        left: 8px;
+        font-size: 9px;
+    }
+    footer .footer-section .event-section {
+        padding-left: 5px;
+    }
+    footer .footer-section .event-section h6.event-heading {
+        margin-bottom: -1em;
+        display: block;
+    }
+    footer .footer-section .event-list.text-left .event-1 {
+        margin: 1em 0;
+        border-bottom: 2px solid #fff;
+        padding-bottom: 10px;
+    }
+    footer .footer-section .event-section h6.event-heading {
+        margin-bottom: 0em;
+        display: block;
+    }
+    footer .footer-section .event-list.text-left p {
+        color: #fff;
+        background-color: #064e28;
+        display: inline-block;
+        padding: 2px 4px;
+        margin: 0;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    footer .footer-section .event-list.text-left p .month-name {
+        display: block;
+        text-align: center;
+        padding: 0 3px;
+        margin: 0;
+    }
+    footer .footer-section span.month-date {
+        padding-left: 10px;
+    }
+    footer .footer-section .event-list.text-left h6 {
+        display: inline-block;
+        font-size: 11px;
+        padding-left: 7px;
+        font-weight: 300;
+    }
+    footer .footer-section .event-list.text-left .event-2 {
+        margin: 1em 0;
+        border-bottom: 2px solid #fff;
+        padding-bottom: 1em;
+    }
+    footer .footer-section .event-list.text-left .event-3 {
+        margin: 1em 0;
+    }
+    footer .form-control {
+        font-size: 13px;
+    }
+    footer button {
+        background: #064e28;
+        color: #fff;
+        border: none;
+        border-radius: 40px;
+        padding: 4px 16px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .footer-icon-list ul li {
+        color: #fff;
+        display: inline-block;
+        font-size: 16px;
+        padding: 0 11px;
+        margin-top: 5px;
+    }
+    .footer-bottom.text-center p {
+        margin: 0;
+        padding: 8px 0;
+        background: #009146;
+        color: #fff;
+        font-size: 14px;
+    }
+    .surah-recitation p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 10px;
+        color: #959595;
+    }
+
+    .about-us .number-list p.about-us-number {
+        padding: 5px 24px;
+    }
+    .number-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 1em;
+    }
+    
+    .number-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 0em;
+    }
+    
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 4px;
+        padding: 0 12px;
+    }
+    .about-us .about-us-text span {
+        font-size: 11px;
+        position: relative;
+        left: -39%;
+        top: 6px;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 3px 12px;
+        border-radius: 26px;
+        font-size: 14px;
+        margin-top: 1em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        position: relative;
+        left: 0;
+    }
+    .about-us .number-list p.about-us-number {
+        padding: 8px 24px;
+    }
+    .about-us .number-list p {
+        font-size: 35px;
+        border: 2px solid dotted;
+        border: 2px dotted #fff;
+        padding: 8px 20px;
+    }
+    .islamic-icons .img-fluid {
+        /* width: 100%; */
+        height: 135px;
+    }
+    .target ul {
+        position: relative;
+        list-style: none;
+        padding: 0;
+        margin-top: 0em;
+        left: 195px;
+        top: -136px;
+    }
+    .about-us .number-list p {
+        font-size: 16px;
+        border: 2px solid dotted;
+        border: 2px dotted #fff;
+        padding: 8px 20px;
+    }
+    
+    
+
+}
+
+
+
+
+@media screen and (min-width:993px) and (max-width:1099px) {
+
+    .header-top-left ul {
+        padding: 0 80px;
+    }
+
+    header .header-middle .navbar .navbar-brand img {
+        height: 60px;
+        padding: 6px 0;
+    }
+
+    header .header-bottom nav .navbar-collapse ul .nav-item .nav-link {
+        color: #fff;
+        text-decoration: none;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        padding: 0 10px;
+    }
+
+    header .header-bottom input.form-control.mr-sm-2 {
+        border-radius: 0;
+        font-weight: 700;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+    }
+
+    header .header-bottom .input-group-append button {
+        background: none;
+        position: relative;
+        left: -40px;
+        border: none;
+        font-size: 15px;
+    }
+    .carousel-caption.text-center img {
+        height: 75px;
+    }
+    .carousel-caption {
+        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .carousel-caption.text-center h2 {
+        font-size: 30px;
+    }
+    .carousel-caption.text-center h1 {
+        font-size: 36px;
+    }
+    .carousel-caption.text-center p {
+        font-size: 15px;
+    }
+    .slider-section #carouselExampleIndicators a span i {
+        font-size: 1.5rem;
+    }
+    .slider-section img.play-track-img {
+        position: relative;
+        top: -60px;
+        left: 0;
+    }
+    .title-tag h1 {
+        color: #009245;
+        margin-bottom: 0px;
+        font-size: 28px;
+    }
+    .underline-img {
+        margin: 0px 0 1em 225px;
+    }
+    .surah-section .surah-recitation {
+        border: 1px solid #7f7f7f;
+        border-radius: 16px;
+        margin-bottom: 2em;
+        padding: 1em;
+    }
+    .surah-recitation .underline {
+        width: 28px;
+        border: 2px solid green;
+        margin: -4px 0px 12px 125px;
+    }
+    .surah-recitation p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 11px;
+        color: #959595;
+    }
+    .surah-recitation i {
+        position: relative;
+        left: 118px;
+        top: 5px;
+        background: #6c6c6c;
+        color: #fff;
+        padding: 12px;
+        border-radius: 50%;
+        font-size: 11px;
+    }
+    .about-us {
+        width: 100%;
+        height: auto;
+        background-image: url(images/msoque-img.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        overflow: hidden;
+        position: relative;
+        padding: 2em 0;
+    }
+    .about-us .about-us-text h2 {
+        margin-bottom: 10px;
+        font-weight: 600;
+        font-size: 26px;
+    }
+    .about-us .about-us-text p {
+        font-size: 13px;
+        margin: 0;
+    }
+    
+    .name-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 0 8px 0 0px;
+        margin-top: -5px;
+    }
+    .about-us .about-us-text .name-list p {
+        font-size: 13px;
+    }
+    .about-us .about-us-text .name-list p.name-list-item {
+        font-size: 13px;
+        position: relative;
+        left: 0;
+    }
+    .about-us .about-us-button {
+        background: none;
+        background: #fff;
+        color: #000;
+        padding: 7px 20px;
+        border-radius: 26px;
+        font-size: 15px;
+        margin-top: 1em;
+        text-align: center;
+        cursor: pointer;
+        font-weight: 500;
+        position: relative;
+        left: 10px;
+    }
+    
+    
+    .services-info img {
+        height: 221px;
+        /* border-top-left-radius: 34px; */
+        /* border-top-right-radius: 34px; */
+        border-radius: 34px 34px 0 0;
+        width: 100%;
+    }
+    .services-info h5 {
+        padding: 0 1.5em;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        margin-top: 11px;
+        margin-bottom: 0;
+    }
+    .services-info .time {
+        padding: 0px 10px;
+    }
+    .services-info {
+        border: 1px solid #000;
+        margin-bottom: 2em;
+        border-radius: 34px;
+        height: 290px;
+        box-shadow: 1px 5px 5px #059349;
+    }
+    .islamic-icons.no-gutters img {
+        height: 188px;
+    }
+    .islamic-pillar {
+        height: auto;
+        background-image: url(images/pillars-bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .teacher-section .team-hover ul li a {
+        color: #fff;
+        padding: 2px;
+    }
+    .teacher-section .team-hover ul li a i {
+        font-size: 15px;
+        color: #000;
+        background-color: #fff;
+        padding: 7px 10px;
+        border-radius: 50%;
+    }
+    .teacher-section .team-hover ul li a i.fab.fa-google-plus-g {
+        padding: 8px;
+    }
+    .teacher-section .team-hover {
+        background-color: transparent;
+        padding: 0;
+        opacity: 0;
+        position: absolute;
+        left: 49px;
+        bottom: 0;
+        top: 138px;
+    }
+    .teacher-section h6 {
+        font-size: 16px;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 5px;
+    }
+    .teacher-section p {
+        font-size: 12px;
+    }
+    .weekly-program-section .weekly-program-text h2 {
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .weekly-program-section .weekly-program-text h4 {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }.weekly-program-section .weekly-program-text p {
+        font-size: 13px;
+        font-weight: lighter;
+    }
+    .weekly-program-section .weekly-program-text a {
+        display: inline-block;
+        color: #008e48;
+        background-color: #fff;
+        padding: 6px 16px;
+        font-size: 14px;
+        border-radius: 20px;
+        font-weight: 600;
+        margin-right: 10px;
+        text-decoration: none;
+        margin-top: 10px;
+    }
+    .gallery-section img.img-fluid {
+        height: 202px;
+        width: 100%;
+        margin-bottom: 16px;
+        position: relative;
+        overflow: hidden;
+    }
+    .gallery-section .overlay {
+        position: absolute;
+        height: 93%;
+        width: 94%;
+    }
+    .text-center.gallery-button a {
+        background-color: #019149;
+        color: #fff;
+        padding: 6px 16px;
+        margin-top: 1em;
+        display: inline-block;
+        border-radius: 40px;
+        font-size: 14px;
+        text-decoration: none;
+    }
+    .donate-section .box-text.text-center {
+        position: absolute;
+        top: 30px;
+        color: #fff;
+    }
+    .donate-section .box-text.text-center p {
+        padding: 0 4em;
+        font-size: 12px;
+        margin-top: 1em;
+    }
+    .circleBar .circle-1 {
+        height: 140px;
+        width: 140px;
+        margin-top: 2em;
+        border-radius: 50%;
+        text-align: center;
+        border: 10px solid #009441;
+        left: 90px;
+        position: relative;
+    }
+    .target ul li {
+        background: #00000096;
+        width: 119px;
+        padding: 8px 8px;
+        margin: 3px 0;
+        border: 1px solid #ffffff5c;
+        font-size: 15px;
+    }
+    .circleBar .circle-1 span {
+        position: relative;
+        top: 48px;
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .donate-section .payment-section {
+        margin-top: 0;
+    }
+    ul.donate-list li.amount-form input.form-control.text-center {
+        width: 100%;
+        padding: 4px 5px;
+        height: 35px;
+        font-size: 15px;
+    }
+    .donate-section h5 {
+        padding-left: 2.8rem;
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    .method-type {
+        font-size: 13px;
+        padding: 0 42px;
+        font-weight: bold;
+    }
+    .donate-section a.donate-button {
+        display: inline-block;
+        margin-left: 2.5rem;
+        margin-top: 1.5em;
+        color: #fff;
+        text-decoration: none;
+        background-color: #009146;
+        padding: 6px 16px;
+        font-size: 13px;
+        border-radius: 40px;
+    }
+    .donate-section .payment-section {
+        margin-top: 12px;
+    }
+    .blog-section .card .card-body .card-text h5 {
+        color: #777;
+        font-size: 17px;
+    }
+    
+
+.testinomial-section .owl-carousel .owl-item img {
+    width: 16%;
+    height: auto;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 0;
+    margin: 10px;
+    box-shadow: 0px 3px 10px rgb(0 0 0 / 50%);
+}
+.testinomial-section .card {
+    border: 1px solid #000;
+    padding: 0 6px;
+    border-radius: 0;
+}    
+.testinomial-section .card-img p {
+    font-size: 14px;
+    display: inline-block;
+    padding-left: 8em;
+    margin-top: -2em;
+    color: #777;
+    padding-right: 2em;
+}
+footer .footer-section h6 {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+footer .footer-section .footer-img img {
+    height: auto;
+    margin: 1em 0;
+}footer .footer-section .footer-text p {
+    color: #fff;
+    font-size: 13px;
+    margin: 16px 0;
+}
+footer .footer-section .contact-list ul li span i {
+    padding-left: 0;
+    font-size: 15px;
+}
+footer .footer-section span.contact-list-info {
+    position: relative;
+    left: 12px;
+    font-size: 12px;
+}
+footer .footer-section .event-section h6.event-heading {
+    margin-bottom: 0em;
+    display: block;
+}
+footer .footer-section .event-list.text-left .event-1 {
+    margin: 1.5em 0;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 1.5em;
+}
+footer .footer-section .event-list.text-left p {
+    color: #fff;
+    background-color: #064e28;
+    display: inline-block;
+    padding: 2px 5px;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+footer .footer-section .event-list.text-left h6 {
+    display: inline-block;
+    font-size: 11px;
+    padding-left: 10px;
+    font-weight: 300;
+}
+footer .footer-section .event-list.text-left .event-2 {
+    margin: 1.5em 0;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 1.5em;
+}
+footer .footer-section .event-list.text-left .event-3 {
+    margin: 1.5em 0;
+}
+footer .form-control {
+    font-size: 15px;
+}
+footer button {
+    background: #064e28;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    padding: 4px 16px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.footer-icon-list ul li {
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 0 11px;
+    margin-top: 12px;
+}
+.about-us .about-us-text span {
+    font-size: 13px;
+    position: relative;
+    left: -38%;
+    top: 20px;
+}
+.about-us .number-list p.about-us-number {
+    padding: 10px 30px;
+}
+.about-us .number-list p {
+    font-size: 35px;
+    border: 2px solid dotted;
+    border: 2px dotted #fff;
+    padding: 10px 27px;
+}
+.about-us .about-us-text span {
+    font-size: 13px;
+    position: relative;
+    left: -38%;
+    top: 36px;
+}
+.about-us .about-us-button {
+    background: none;
+    background: #fff;
+    color: #000;
+    padding: 5px 21px;
+    border-radius: 26px;
+    font-size: 15px;
+    margin-top: 2em;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 500;
+    position: relative;
+    left: 10px;
+}
+.islamic-icons.no-gutters img {
+    height: 184px;
+}
+.target ul li {
+    background: #00000096;
+    width: 119px;
+    padding: 11px 10px;
+    margin: 0px 0;
+    border: 1px solid #ffffff5c;
+    position: relative;
+    left: 230px;
+    list-style: none;
+    top: -145px;
+    margin: 2px 0;
+}
+
+.about-us .number-list p {
+    font-size: 20px;
+    border: 2px solid dotted;
+    border: 2px dotted #fff;
+    padding: 10px 27px;
+}
+.about-us .about-us-text span {
+    font-size: 13px;
+    position: relative;
+    left: -39%;
+    top: 20px;
+}
+.name-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0 8px 0 0px;
+    margin-top: 0px;
+}
+.number-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 1em;
+}
+.target ul {
+    position: relative;
+    left: 60px;
+    top: -42px;
+}
+}
+
